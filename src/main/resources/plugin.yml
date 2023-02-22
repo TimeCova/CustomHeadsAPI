@@ -1,0 +1,4 @@
+name: CustomHeadsAPI
+version: '${project.version}'
+main: sainte.customheadsapi.CustomHeadsAPI
+api-version: 1.19
